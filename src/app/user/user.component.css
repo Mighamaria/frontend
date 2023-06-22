@@ -1,0 +1,128 @@
+.user{
+    background-color: black;
+    height: 100vh;
+}
+
+/* .user-dashboard {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 0 auto;
+    width: 800px;
+    font-family: Arial, sans-serif;
+  } */
+  .section-banner {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: left;
+
+  }
+  .user-dashboard{
+    background-color: black;
+  }
+  
+  .section {
+    margin-bottom: 30px;
+  }
+  
+  .section h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  /* .card-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .card {
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-right: 15px;
+    margin-bottom: 15px;
+    width: 200px;
+  }
+  
+  .card-header {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+  }
+  
+  .card-header .genre-name,
+  .card-header .artist-name,
+  .card-header .language-name {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .card-body {
+    padding: 10px;
+  } */
+  
+  .music-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .music-list li {
+    margin-bottom: 5px;
+  }
+  
+  /* .create-button {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  } */
+  
+  .create-form {
+    /* position: absolute; */
+    /* top: 50px;
+    left: 10px;
+    padding: 20px; */
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  /* .search-create {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  } */
+  
+  .create-button {
+    /* margin-top: 70px; */
+    /* margin-left: 20px; */
+    background-color: lightcoral ;
+    border-radius: 3px;
+    border: none;
+   
+    .search-bar{
+      margin-top: 0;
+    }
+    
+  }
+  .search-create{
+    /* margin-bottom: 70px; */
+    margin-top: 0%;
+    
+  }
+  .create-button-container {
+    
+    margin-left: 10px; 
+    /* Adjust this value to control the spacing between the search bar and the create button */
+  }
+
+  C:\Users\245137\Desktop\sample_demo_music-main\front-end-master\src\app\user\user.component.css
+C:\Users\245137\Desktop\sample_demo_music-main\front-end-master\src\app\user\user.component.html
+C:\Users\245137\Desktop\sample_demo_music-main\front-end-master\src\app\user\user.component.spec.ts
+C:\Users\245137\Desktop\sample_demo_music-main\front-end-master\src\app\user\user.component.ts
